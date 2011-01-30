@@ -1,0 +1,31 @@
+Swiff Editor allows you to edit your Nodes straight from the page itself and let's you see the changes LIVE, with the stylesheets and javascripts. Experience the difference with Swiff Editor.
+
+Installation
+------------
+1: Download the latest Zip file of Swiff Editor
+2: Login to /Admin of your croogo website
+3: Go to "Extensions"
+4: Upload the Zip file of Swiff Editor
+5: Activate Swiff Editor if it is not activated yet
+
+That's it! It's installed and ready for you to use.
+
+How to use?
+-----------
+1: Login through the front-end or back-end of your croogo website
+2: Go to any of the Nodes/Blogs/Pages that you want to edit
+3: Use the built-in TinyMCE editor to edit the Node
+4: Save your changes
+
+Swiff Controls
+--------------
+Save Only - Saves your changes to the Nodes and stay at the page.
+Reset To Original - Reverts and saves all the changes back from the original. This will overwrite all the changes you did, even if you have clicked "Save Only"
+Save and Exit - Saves your changes and bring you back to the Admin Panel
+Exit without Saving - Brings you back to the Admin Panel. Any unsaved changes will be lost.
+
+Tabs
+----
+Page - This is the main content of your Node
+Page Settings - You can change your Title, Slug and Excerpt
+Logout - Let's you log out of Croogo Admin
