@@ -1,0 +1,11 @@
+name: Swiff Editor
+description: Edit your nodes LIVE!
+
+author: ProFire
+authorEmail: ProFire88@hotmail.com
+authorUrl: http://ProFire.blogspot.com
+
+dependencies:
+  plugins:
+    - acl
+    - extensions

@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+
+#swiff-container {
+	position: fixed; 
+	bottom: 0px; 
+	left: 0px; 
+	width: 100%;
+}
+
+#swiff-container #swiff-content .input {
+	text-align: center;
+}
+	
+#swiff-container #swiff-content .input label {
+	display: block;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+#swiff-container #swiff-content .input input {
+	height: 20px;
+	text-align: center;
+	width: 400px;
+}
+
+#swiff-container #swiff-content .input textarea {
+	text-align: left;
+	width: 400px;
+}
+
+#swiff-container #tabs-3 p {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+}
